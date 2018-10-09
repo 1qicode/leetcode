@@ -5,7 +5,7 @@ Then we recorded all problems and solutions here.
 ##### WHO WE ARE?
 we are 2017CSers in FDU.
 our group in charge of this plan: Gromah, Thor, Oxer, Duye, Wanghao, Simon;
-##### WAHT WE DO?
+##### WHAT WE DO?
 we select problems
 we offer solutions
 we record these
