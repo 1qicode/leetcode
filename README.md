@@ -4,7 +4,7 @@ We pushed all problems to our classmates to make us better at coding. And we off
 Then we recorded all problems and solutions here.
 ##### WHO WE ARE?
 we are 2017CSers in FDU.
-our group in charge of this plan: Gromah, Thor, Oxer, Duye, Wanghao, Simon;
+our group in charge of this plan: Gromah, Thor, Oxer, Duye, Wanghao, Simon, Ryan;
 ##### WHAT WE DO?
 we select problems
 we offer solutions
